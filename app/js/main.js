@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
             styledMode: true,
             spacingBottom: 25,
             spacingRight: 100,
-            spacingLeft: -10    
+            spacingLeft: -2    
         }, 
         title: {
             text: null
@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function () {
         tooltip: {
             shadow: false,
             padding: 10,
-            xDateFormat: '%B %Y'
+            xDateFormat: '%B %Y'    
         },
         responsive: {
             rules: [{
